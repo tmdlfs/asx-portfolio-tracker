@@ -346,4 +346,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("Created in May 2025 by Thomas Delafosse.")
+st.markdown("Created in May 2025 by Thomas Delafosse. v1.01 draft version only.")
